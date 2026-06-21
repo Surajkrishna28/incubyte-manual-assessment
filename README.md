@@ -9,4 +9,4 @@ Test the Gmail Compose functionality.
 - Positive and Negative Test Cases
 
 The test cases are available in the Excel file:
-Gmail_Compose_Test_Cases.xlsx
+Incubyte_Manual_Assessment.xlsx
