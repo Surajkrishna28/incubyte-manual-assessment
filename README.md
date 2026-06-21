@@ -1,4 +1,4 @@
-# Gmail Compose Manual Testing Assessment
+# Incubyte Manual Assessmentt
 
 ## Objective
 Test the Gmail Compose functionality.
